@@ -6,8 +6,8 @@
 -->
 <app>
     <!-- Latest version available on GitHub Releases -->
-    <latestVersion>1.0.0</latestVersion>
-    <latestVersionCode>5</latestVersionCode>
+    <latestVersion>1.0.1</latestVersion>
+    <latestVersionCode>7</latestVersionCode>
     
     <!-- Where to download new APK -->
     <apkUrl>https://github.com/Lalawalona/RetrobookAndroid/releases/latest</apkUrl>
@@ -19,6 +19,6 @@
     <releaseDate>2026-08-14</releaseDate>
     
     <!-- If set to true, forces user to update (optional) -->
-    <forceUpdate>false</forceUpdate>
-    <minVersion>1.0.0</minVersion>
+    <forceUpdate>true</forceUpdate>
+    <minVersion>1.0.1</minVersion>
 </app>
