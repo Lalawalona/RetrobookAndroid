@@ -19,6 +19,6 @@
     <releaseDate>2026-08-14</releaseDate>
     
     <!-- If set to true, forces user to update (optional) -->
-    <forceUpdate>true</forceUpdate>
+    <forceUpdate>false</forceUpdate>
     <minVersion>1.0.1</minVersion>
 </app>
