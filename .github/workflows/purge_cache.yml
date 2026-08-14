@@ -1,0 +1,14 @@
+name: Purge jsDelivr Cache
+
+on:
+  push:
+    paths:
+      - 'version.xml'  # Only triggers when version.xml is updated
+
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Purge Cache
+        run: |
+          curl -s https://purge.jsdelivr.net/gh/${{ github.repository }}@main/version.xml
