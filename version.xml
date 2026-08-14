@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- 
-  REMOTE VERSION FILE - Host this on GitHub
-  Path: https://raw.githubusercontent.com/LalawalonaMC/RetrobookAndroid/main/version.xml
-  This is what old apps fetch to check for updates
--->
 <app>
-    <!-- Latest version available on GitHub Releases -->
     <latestVersion>1.0.1</latestVersion>
-    <latestVersionCode>7</latestVersionCode>
-    
-    <!-- Where to download new APK -->
+    <latestVersionCode>10</latestVersionCode>
     <apkUrl>https://github.com/Lalawalona/RetrobookAndroid/releases/latest</apkUrl>
     <downloadUrl>https://github.com/Lalawalona/RetrobookAndroid/releases/latest/download/app-release.apk</downloadUrl>
-    
-    <!-- Info -->
     <name>Retrobook</name>
-    <changelog>Initial release with internal version XML and auto-update checker</changelog>
+    <changelog>- Initial production release
+- Internal version.xml system
+- Auto-update checker with GitHub
+- Offline screen with retry
+- Force update with BSOD screen</changelog>
     <releaseDate>2026-08-14</releaseDate>
-    
-    <!-- If set to true, forces user to update (optional) -->
     <forceUpdate>false</forceUpdate>
-    <minVersion>1.0.1</minVersion>
+    <minVersion>1.0.0</minVersion>
 </app>
