@@ -11,6 +11,6 @@
 - Offline screen with retry
 - Force update with BSOD screen</changelog>
     <releaseDate>2026-08-14</releaseDate>
-    <forceUpdate>force</forceUpdate>
+    <forceUpdate>false</forceUpdate>
     <minVersion>1.0.1</minVersion>
 </app>
