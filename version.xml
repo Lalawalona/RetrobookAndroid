@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <app>
-    <latestVersion>1.0.1</latestVersion>
-    <latestVersionCode>2</latestVersionCode>
+    <latestVersion>1.0.0</latestVersion>
+    <latestVersionCode>1</latestVersionCode>
     <apkUrl>https://github.com/Lalawalona/RetrobookAndroid/releases/latest</apkUrl>
     <downloadUrl>https://github.com/Lalawalona/RetrobookAndroid/releases/latest/download/app-release.apk</downloadUrl>
     <name>Retrobook</name>
