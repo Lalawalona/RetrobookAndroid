@@ -10,8 +10,8 @@
     <latestVersionCode>5</latestVersionCode>
     
     <!-- Where to download new APK -->
-    <apkUrl>https://github.com/LalawalonaMC/RetrobookAndroid/releases/latest</apkUrl>
-    <downloadUrl>https://github.com/LalawalonaMC/RetrobookAndroid/releases/latest/download/app-release.apk</downloadUrl>
+    <apkUrl>https://github.com/Lalawalona/RetrobookAndroid/releases/latest</apkUrl>
+    <downloadUrl>https://github.com/Lalawalona/RetrobookAndroid/releases/latest/download/app-release.apk</downloadUrl>
     
     <!-- Info -->
     <name>Retrobook</name>
