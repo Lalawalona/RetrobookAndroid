@@ -5,8 +5,8 @@
     <apkUrl>https://github.com/Lalawalona/RetrobookAndroid/releases/latest</apkUrl>
     <downloadUrl>https://github.com/Lalawalona/RetrobookAndroid/releases/latest/download/app-release.apk</downloadUrl>
     <name>Retrobook</name>
-    <changelog>- Ignore. No update yet available</changelog>
+    <changelog>- THIS IS JUST A TEST, IN 5 MINUTES RETROBOOK WILL BE WORKING</changelog>
     <releaseDate>2026-08-14</releaseDate>
-    <forceUpdate>false</forceUpdate>
-    <minVersion>1.0.0</minVersion>
+    <forceUpdate>true</forceUpdate>
+    <minVersion>1.0.1</minVersion>
 </app>
